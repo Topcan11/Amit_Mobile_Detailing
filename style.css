@@ -6,8 +6,10 @@
 }
 
 .logo {
-  height: 100px;
-  width: 100px;
+  width: 120px; 
+  height: auto;    
+  max-height: 50px;
+  object-fit: contain; 
 }
 
 .package-card {
